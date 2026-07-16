@@ -1,0 +1,13 @@
+name: OSD-969_OSD-970
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11
+  - ipykernel
+  - numpy
+  - pandas
+  - kagglehub
+  - awscli
+  - matplotlib
+  - seaborn
+  - openpyxl
